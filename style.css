@@ -38,8 +38,8 @@ h1 {
   position: relative;
   line-height: 80px;
   backdrop-filter: blur(90px);
-  box-shadow: 0 0 30px rgba(255, 255, 255, 0.37);
-  border: 2px solid rgba(194, 193, 193, 0.18);
+  box-shadow: 0 0 30px rgba(206, 122, 245, 0.37);
+  border: 2px solid rgba(161, 88, 255, 0.521);
 }
 
 .entry-box {
@@ -94,7 +94,7 @@ button {
   color: #fff;
   background-color: #da46ff4b;
   border-style: none;
-  border-radius: 1000px;
+  border-radius: 0.625rem;
   padding: 12px 30px;
   backdrop-filter: blur(10px);
   box-shadow: 0 0 30px rgba(235, 137, 255, 0.37);
